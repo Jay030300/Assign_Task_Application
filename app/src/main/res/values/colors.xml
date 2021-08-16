@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="light_white">#d1cece</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="black">@android:color/black</color>
+    <color name="gray">@android:color/darker_gray</color>
+    <color name="gray_white">#90767676</color>
+    <color name="lighter_gray">#DCDCDC</color>
+
+    <color name="limegreen">#32CD32</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="clr_darkgrey">#2F3234</color>
+    <color name="clr_lightgrey1">#8D8D8D</color>
+    <color name="clr_lightgrey2">#A3A3A3</color>
+    <color name="clr_lightgrey3">#D0CECE</color>
+    <color name="clr_lightgrey0">#707070</color>
+    <color name="clr_lightgrey4">#F1F1F1</color>
+    <color name="clr_lightgrey5">#FAFAFA</color>
+
+    <color name="signin_blue">#003ba3</color>
+    <color name="signup_blue">#0957df</color>
+    <color name="signup_blue1">#980957df</color>
+    <color name="position_orange">#E04F07</color>
+    <color name="position_blue">#039CB3</color>
+    <color name="position_yellow">#eaa30d</color>
+    <color name="position_purpole">#a514fa</color>
+
+
+    <color name="spn_age_blue">#032D7C</color>
+    <color name="list_categort_red">#F05353</color>
+
+
+    <color name="category_red">#EF5252</color>
+    <color name="category_orance">#F69702</color>
+    <color name="category_green">#27C55B</color>
+    <color name="category_orange1">#FC5522</color>
+    <color name="category_purple">#BE02BB</color>
+    <color name="category_blue">#03CEAF</color>
+
+
+    <color name="home_practise_btn">#5ADD34</color>
+    <color name="game_green_point">#39E459</color>
+    <color name="game_orance_btn">#F69702</color>
+    <color name="game_yellow_btn">#FFC11E</color>
+    <color name="game_yellow_btn_op">#70FFC11E</color>
+    <color name="game_red_point">#F05353</color>
+    <color name="game_red_point_op">#70F05353</color>
+
+
+    <color name="game_green_point_op">#7039E459</color>
+    <color name="game_orance_btn_op">#70F69702</color>
+
+    <color name="yello_progress">#FFC11E</color>
+
+    <color name="color_whellbg_silvercoin_blue">#1555ab</color>
+    <color name="color_whellbg_double_green">#30d893</color>
+    <color name="color_whellbg_life_maroon">#d0343a</color>
+    <color name="color_whellbg_skip_yellow">#dfa903</color>
+    <color name="color_whellbg_5050_violet">#73308b</color>
+    <color name="color_whellbg_goldcoin_red">#cc1a67</color>
+
+    <color name="progress_gray">#FFD8D8D8</color>
+    <color name="progress_gray_dark">#FF383838</color>
+    <color name="default_blue_light">#ff33b5e5</color>
+
+    <color name="clr_header">#053B9D</color>;
+    <color name="clr_lscore">#FE8E8E</color>;
+    <color name="clr_avgscore">#FEB56E</color>;
+    <color name="clr_hscore">#56FDE0</color>;
+    <color name="clr_bgcolortop">#3B7CFE</color>;
+    <color name="clr_bgcolormiddle">#205CCD</color>;
+    <color name="clr_bgcolorbottom">#033899</color>;
+
+
+    <color name="blue01">#0099CC</color>
+    <color name="blue02">#079DD0</color>
+    <color name="blue03">#0FA1D3</color>
+    <color name="blue04">#16A5D7</color>
+    <color name="blue05">#1DA9DA</color>
+    <color name="blue06">#24ADDE</color>
+    <color name="blue07">#2CB1E1</color>
+    <color name="blue08">#33B5E5</color>
+    <color name="blue09">#50C0E9</color>
+    <color name="blue10">#6DCAEC</color>
+    <color name="blue11">#8AD5F0</color>
+    <color name="blue12">#A8DFF4</color>
+    <color name="blue13">#C5EAF8</color>
+    <color name="blue14">#E2F4FB</color>
+
+    <color name="purple01">#9933CC</color>
+    <color name="purple02">#A041D0</color>
+    <color name="purple03">#A750D3</color>
+    <color name="purple04">#AC59D6</color>
+    <color name="purple05">#B368D9</color>
+    <color name="purple06">#BA75DC</color>
+    <color name="purple07">#C182E0</color>
+    <color name="purple08">#C58BE2</color>
+    <color name="purple09">#CB97E5</color>
+    <color name="purple10">#CF9FE7</color>
+    <color name="purple11">#D6ADEB</color>
+    <color name="purple12">#DDBCEE</color>
+    <color name="purple13">#E5CAF2</color>
+    <color name="purple14">#F5EAFA</color>
+
+    <color name="green01">#669900</color>
+    <color name="green02">#6DA000</color>
+    <color name="green03">#75A800</color>
+    <color name="green04">#7CAF00</color>
+    <color name="green05">#83B600</color>
+    <color name="green06">#8ABD00</color>
+    <color name="green07">#92C500</color>
+    <color name="green08">#99CC00</color>
+    <color name="green09">#A8D324</color>
+    <color name="green10">#B6DB49</color>
+    <color name="green11">#C5E26D</color>
+    <color name="green12">#D3E992</color>
+    <color name="green13">#E2F0B6</color>
+    <color name="green14">#F0F8DB</color>
+
+    <color name="orange01">#FF8A00</color>
+    <color name="orange02">#FF9105</color>
+    <color name="orange03">#FF9909</color>
+    <color name="orange04">#FFA00E</color>
+    <color name="orange05">#FFA713</color>
+    <color name="orange06">#FFAE18</color>
+    <color name="orange07">#FFB61C</color>
+    <color name="orange08">#FFBD21</color>
+    <color name="orange09">#FFC641</color>
+    <color name="orange10">#FFD060</color>
+    <color name="orange11">#FFD980</color>
+    <color name="orange12">#FFE3A0</color>
+    <color name="orange13">#FFECC0</color>
+    <color name="orange14">#FFF6DF</color>
+
+    <color name="red01">#CC0000</color>
+    <color name="red02">#D30A0A</color>
+    <color name="red03">#DB1313</color>
+    <color name="red04">#E21D1D</color>
+    <color name="red05">#E92727</color>
+    <color name="red06">#F03131</color>
+    <color name="red07">#F83A3A</color>
+    <color name="red08">#FF4444</color>
+    <color name="red09">#FF5F5F</color>
+    <color name="red10">#FF7979</color>
+    <color name="red11">#FF9494</color>
+    <color name="red12">#FFAFAF</color>
+    <color name="red13">#FFCACA</color>
+    <color name="red14">#FFE4E4</color>
+
+    <color name="translat">#00fafafa</color>
+
+    <color name="dark_grey">#FFFFFFFF</color>
+    <color name="green">#06836E</color>
+
+
+</resources>
